@@ -1,4 +1,4 @@
 ﻿<?php
-echo "eiei";
-
+echo "uuuuu";
+echo "555555";
 ?>
